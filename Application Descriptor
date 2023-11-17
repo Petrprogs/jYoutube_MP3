@@ -1,7 +1,7 @@
-MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Vendor: petrprogs
 MIDlet-Version: 1.0.0
 MicroEdition-Configuration: CLDC-1.0
 MIDlet-1: YTMP3,,org.YTMP3
-MIDlet-Name: MP3 Youtube MIDlet Suite
+MIDlet-Name: JYoutube MP3
 MicroEdition-Profile: MIDP-2.0
 MIDlet-Jar-URL: MP3_Youtube.jar
